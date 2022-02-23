@@ -1,4 +1,4 @@
 PREFIX : <http://example.org/>
 
-:William a :Man.
-:William :likes :Spaghetti, :Fish, :Pizza.
+<https://raw.githubusercontent.com/doerthe/n3-examples/main/William.n3> a :Man.
+<https://raw.githubusercontent.com/doerthe/n3-examples/main/William.n3>  :likes :Spaghetti, :Fish, :Pizza.
