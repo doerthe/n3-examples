@@ -1,0 +1,4 @@
+PREFIX : <http://example.org/>
+
+:William a :Man.
+:William :likes :Spaghetti, :Fish, :Pizza.
